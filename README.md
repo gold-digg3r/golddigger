@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./digr-logo.png](https://ucarecdn.com/5ffe7e5b-c316-4c57-9a21-841ec935f073/token.png)" alt="Gold Digger Logo" width="120"/>
+  <img src="[https://ucarecdn.com/5ffe7e5b-c316-4c57-9a21-841ec935f073/token.png)" alt="Gold Digger Logo" width="120"/>
 </p>
 
 # 🪙 GOLD DIGGER
