@@ -2,7 +2,7 @@
 
 ### About the Gold Digger Ecosystem and Infrastructure
 
-The **Gold Digger Web3 dApp** leverages a wide array of technologies and protocols to create a secure and efficient platform for users to engage with the Solana blockchain. Built with the **Gold Digger Protocol**, the ecosystem is designed to facilitate a variety of decentralized activities, such as minting NFTs, staking tokens, and interacting with DeFi applications.
+The **Gold Digger Web3 dApp** leverages a wide array of technologies and protocols to create a secure and efficient platform for users to engage with the Solana blockchain. Built with the **Gold Digger (Protocol)**, the ecosystem is designed to facilitate a variety of decentralized activities, such as minting NFTs, staking tokens, and interacting with DeFi applications.
 
 #### Gold Digger Token (DIGR)
 
