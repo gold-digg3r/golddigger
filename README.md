@@ -4,6 +4,10 @@
 
 # 🪙 GOLD DIGGER PROTOCOL
 
+[![Build](https://github.com/your-org/gold-dig3er/actions/workflows/ci.yml/badge.svg)](https://github.com/gold-digg3r/gold-digger/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-90%25-brightgreen)](https://codecov.io/gh/your-org/gold-digger)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
+
 Gold Digger is a next-gen Web3 platform built on **Solana**, empowering users to engage with decentralized tools that support NFT minting, token staking, and DeFi participation — all within a secure and rewarding ecosystem.
 
 ---
@@ -14,14 +18,17 @@ Gold Digger is a next-gen Web3 platform built on **Solana**, empowering users to
 
 The **Gold Digger Web3 dApp** leverages powerful technologies to create a secure and efficient environment for interacting with the Solana blockchain. Powered by the **Gold Digger Protocol**, the platform supports:
 
-- NFT Minting  
+- Create & Mint NFTs and tokens
+- NFT & Blinks Marketplaces
+- Characters
+- Gemified ecosystem
 - Token & NFT Staking  
 - Community Governance  
-- Future DeFi Applications  
+- Future DeFAI Applications  
 
 ---
 
-## 🪙 Gold Digger Token (DIGR)
+## Gold Digger Token (DIGR)
 
 <p align="left">
   <img src="https://ucarecdn.com/5ffe7e5b-c316-4c57-9a21-841ec935f073/token.png" alt="DIGR Token Logo" width="60"/>
@@ -34,8 +41,26 @@ The **DIGR token** fuels the entire ecosystem — enabling both utility and gove
 - 🎁 **Rewards**: Access incentives, loyalty programs, and community airdrops.  
 - 🛠 **Utility**: Use DIGR for minting, transaction fees, and unlocking exclusive features.
 
-DIGR promotes a community-first, incentive-driven model that rewards contribution and engagement.
+## Gold Token (GOLD)
 
+---
+
+## 🪙 Gold Token (GOLD)
+
+<p align="left">
+  <img src="https://ucarecdn.com/5ffe7e5b-c316-4c57-9a21-841ec935f073/token.png" alt="GOLD Token Logo" width="60"/>
+</p>
+
+The **GOLD token** is a gemified utility and reward asset within the Gold Digger ecosystem, tightly integrated into gameplay, staking mechanics, and reward systems:
+
+- ⛏ **Mining Rewards**: Earn GOLD through on-chain mining, missions, and game-based actions.
+- 🪙 **In-Game Currency**: Use GOLD to upgrade characters, equip gear, and unlock new features.
+- 📦 **Resource Exchange**: Trade GOLD for digital assets, NFTs, and marketplace goods.
+- 🎯 **Incentives**: Participate in loyalty programs, referral rewards, and challenge-based airdrops.
+
+GOLD is designed for **frequent utility** and **scalable distribution** — rewarding the most active and engaged users across the platform.
+
+> **Mine. Earn. Spend. Repeat.**
 ---
 
 ## 📖 Our Story
@@ -45,15 +70,7 @@ We believe in more than just digital ownership — we believe in **digital purpo
 Born at the crossroads of Web3 innovation and grassroots empowerment, Gold Digger was created for the underestimated, the unheard, and the unconventional. For the artists, builders, advocates, and dreamers who don’t just collect — they **contribute**.
 
 What began as a simple minting tool has grown into a full-stack ecosystem:  
-**Staking. Rewards. Community-led campaigns. Real-world utility.**  
-Each NFT minted here carries more than art — it carries intention.
-
-We designed our staking pools to support both NFTs and tokens, giving holders the power to earn, participate, and create lasting impact. Whether it’s supporting causes, empowering creators, or rewarding loyalty, we turn **stories into systems** — and community into currency.
-
-This isn’t just another platform.  
-It’s a **playground for builders**.  
-A **protest for creators**.  
-A **perch for the ones who stay when the noise fades**.
+**Staking. Rewards. Community-led campaigns. Real-world utility.**
 
 > **Stake with purpose. Hold with pride.**  
 > Let’s build something legendary — together.
@@ -69,34 +86,3 @@ To redefine how people interact with digital assets by building a **fast, intuit
 ## 🎯 Mission
 
 To empower individuals — from creators to collectors — with decentralized tools for managing and leveraging their digital assets in a secure, transparent, and impactful way.
-
----
-
-## 🧱 Ecosystem Components
-
-- **Gold Digger Web3 dApp**: A sleek interface for staking, minting, and DeFi features.
-- **Gold Digger Protocol**: Smart contracts governing token logic, staking, and asset management.
-- **NFT Marketplace** *(Upcoming)*: A curated space for trading and showcasing DIGR-powered NFTs.
-- **Analytics Dashboard** *(Coming Soon)*: Real-time insights into token economics, staking pools, and activity.
-- **Community Governance**: Participate in the future of Gold Digger through token-based voting.
-
----
-
-## 🤝 Get Involved
-
-- 🧑‍💻 **Contribute**: Submit pull requests or open issues right here on GitHub.
-- 📣 **Feedback**: Help us improve by sharing suggestions or bugs.
-- 🌍 **Join the Community**: Be part of shaping the Gold Digger ecosystem.
-
----
-
-## 🔗 Follow Us
-
-- 🐦 **Twitter/X**: [@GoldDigger](https://x.com/Gold_Digger_sol)
-- 💬 **Telegram**: [t.me/golddiggercommunity](https://t.me/Gold_Digger_sol)
-
----
-
-## 📝 License
-
-MIT License. Use it. Fork it. Build with it. Let’s dig.
